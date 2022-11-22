@@ -2,4 +2,4 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
-**Alberto Casero**
+**Alberto Casero**, un gran fan
